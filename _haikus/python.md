@@ -1,9 +1,10 @@
 ---
 layout: haiku
-title: python
-author: Daniel Carpenter
+title: Python
+author: xlnxeksix
+
 ---
 
-python is super<br>
-Simple and succinct coding<br>
-No type No worries<br>
+Mine beloved language  
+You have a perfect syntax  
+Nice to meet your might  
